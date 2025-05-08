@@ -1,0 +1,1 @@
+To run the project in Visual Studio 2022, follow these steps: 1.Open Visual Studio 2022. 2.Select sphere_scene.cpp file within the EmptyViewer project. 3.Press Ctrl + F5 to compile, debug, and build the project.
